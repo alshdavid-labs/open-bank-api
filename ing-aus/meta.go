@@ -1,4 +1,4 @@
-package ing
+package ingaus
 
 import "github.com/alshdavid/open-bank-api/bank"
 

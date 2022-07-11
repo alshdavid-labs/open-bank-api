@@ -1,4 +1,4 @@
-package ing
+package ingaus
 
 var ErrorType = struct {
 	InvalidCredentials string

@@ -1,4 +1,4 @@
-package ing
+package ingaus
 
 type Session struct{}
 
